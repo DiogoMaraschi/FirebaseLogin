@@ -1,4 +1,4 @@
-package br.ifsc.edu.aulameu;
+package br.ifsc.edu.loginfirebase;
 
 import androidx.appcompat.app.AppCompatActivity;
 
